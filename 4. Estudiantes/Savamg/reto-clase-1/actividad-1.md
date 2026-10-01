@@ -1,4 +1,5 @@
-# Reto de clase: imaginar el cambio en una comunidad
+# Reto de clase #1
+Estudiante: Samantha Matos
 
 ## Comunidad elegida
 
@@ -76,3 +77,17 @@ La IA me ayudó a organizar la propuesta y a considerar elementos como las categ
 Después de revisar las sugerencias, adapté la propuesta a la realidad de mi club. Decidí que la actividad debía ser sencilla y que no debía imponer un proceso adicional demasiado estricto, ya que actualmente los equipos tienen libertad para investigar y trabajar de acuerdo con las necesidades de sus proyectos.
 
 También quiero recibir retroalimentación de las integrantes del club después de probar la actividad para decidir qué mantener, qué cambiar y cómo podría evolucionar el banco de recursos.
+
+
+# Adicional: Reflexión de la semana
+## ¿Qué aprendí?
+   - Esta semana aprendí a usar nuevas herramientas que antes no conocía como GitHub y Moodle. Además empezé a entender más sobre lo que és una comunidad práctica. Aprendí que tienen 3 pilares fundamentales que son el domino(intereses y problemas comunes), la comunidad (vínculos y confianza entre los miembros que la conforman) y la práctica.
+Entendí que la práctica es muy impiortante para las comunidades ya que requiere una persona activadora que mantenga el proceso vivo para que la comunidad no se desintegre poco a poco. Y que una forma que tenemos para medir como va nuestra comunidad es gracias a  ciertos indicadores como las personas que vuelven, hay aprendizaje en aumento, empiezan a haber nuevas iniciativas por parte de los miembros y el liderazgo ya no es de una sola persona sino que es distribuido.
+
+## ¿Cómo lo aprendí?
+- Los conceptos de la comunidad práctica los aprendí escuchando la clase sincrónica que nos brindó el profesor, y repasando con las diapositivas de apoyo. Por otro lado, aprendí a usar las herramientas de GitHub y Moodle gracias a las guías en pdf. que nos compartieron y después de solicitar ayuda a Chatgpt con el tutorial de GitHub, ya que andaba un poco perdida.
+
+## ¿Cómo puedo aplicar lo que aprendí? y ¿Para qué me sirvió?
+Puedo aplicar los conocimientos de GitHub y Moodle para buscar los recursos y entregar mis tareas a lo largo del curso, además me puede servir luego para documentar mis proyectos personales y compartirlos con más personas o para buscar proyectos similares a los que estoy haciendo. En cuanto al concepto de comunidad práctica lo puedo aplicar en mi comunidad de manera que me sirve para entender como funciona e identificar los elementos presentes en ella y los indicadores que tengo hasta ahora.
+
+
