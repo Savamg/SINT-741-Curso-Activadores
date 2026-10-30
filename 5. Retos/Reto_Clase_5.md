@@ -1,7 +1,8 @@
 # Reto de clase 5 · De exploradores a colaboradores Maker
 
 **Curso Activadores de Comunidades de Práctica · SINT-741**  
-**Trabajo en grupo** 
+**Fecha** 29 de octubre de 2026  
+**Trabajo en grupo** 45 minutos
 
 ## El reto
 
@@ -72,7 +73,7 @@ Distribuyan el trabajo para que todas las personas aporten. Los roles pueden com
 | 0–7 min | Comprender | Elegir un repositorio y entender qué es, para quién está hecho y qué problema resuelve. | Repositorio elegido y una descripción breve en sus propias palabras. |
 | 7–19 min | Investigar con IA | Analizar el README, la documentación, el código, la licencia, los créditos y las formas de contribuir. | Hallazgos con la ruta o el enlace que los respalda. |
 | 19–32 min | Proponer | Identificar una oportunidad y diseñar una mejora o una adaptación para su comunidad. | Propuesta concreta, con pasos y una forma de comprobar que funciona. |
-| 32–40 min | Documentar | Redactar la propuesta en Markdown con la plantilla de este reto. | Archivo `reto-05-propuesta-grupo-N.md`. |
+| 32–40 min | Documentar | Redactar la propuesta en Markdown con la plantilla de este reto. | Archivo `reto-05/propuesta.md` en la carpeta del grupo. |
 | 40–45 min | Compartir | Presentar en un minuto el repositorio, el hallazgo principal y la propuesta. | Comentarios de otros grupos. |
 
 ## Prompt inicial
@@ -115,15 +116,18 @@ No necesitan memorizar comandos. Pueden pedir ayuda a la IA, por ejemplo:
 - «Explícame paso a paso cómo subir un archivo a mi fork en GitHub y abrir un Pull Request.»
 - «Revisa este Markdown y dime si hay errores de formato.»
 
-Para la entrega, sigan la [guía de 4. Estudiantes](https://github.com/Universidad-Cenfotec/SINT-741-Curso-Activadores/tree/main/4.%20Estudiantes) y el manual de ruta de entrega.
+Para la entrega, sigan la [guía de entregas grupales en 6. Grupos](https://github.com/Universidad-Cenfotec/SINT-741-Curso-Activadores/tree/main/6.%20Grupos).
 
 ## Entregable
 
-La entrega es **grupal**: una sola propuesta por grupo.
+La entrega es **grupal**: una sola propuesta por grupo, en la carpeta de su grupo dentro de [`6. Grupos/`](https://github.com/Universidad-Cenfotec/SINT-741-Curso-Activadores/tree/main/6.%20Grupos).
 
-- **Archivo:** `reto-05-propuesta-grupo-N.md`, donde N es el número de su grupo.
-- **Quién entrega:** una persona del grupo abre el **Pull Request**, según la guía de `4. Estudiantes/` y el manual de ruta de entrega. Un Pull Request por grupo.
-- **Integrantes:** el archivo debe incluir los nombres y usuarios de GitHub de todas las personas del grupo. Quien no aparezca en el archivo no recibe la nota.
+- **Ubicación y nombre:** `6. Grupos/[carpeta-de-su-grupo]/reto-05/propuesta.md`. Si agregan imágenes, van en `reto-05/images/`.
+- **Responsable de entrega:** una sola persona sube la entrega. Recuerden rotar esa responsabilidad respecto de los retos anteriores.
+- **Antes de subir:** en su fork, hagan clic en **Sync fork** y luego en **Update branch**.
+- **Pull Request:** usen el mensaje `Entrega reto 5 - Grupo N`, elijan **Create a new branch for this commit and start a pull request** y verifiquen que la flecha vaya desde su fork hacia la rama `main` del repositorio del curso. Un Pull Request por entrega.
+- **Integrantes y roles:** al inicio del documento escriban quiénes participaron y qué rol tuvo cada persona. Solo se considera a quienes aparezcan en el documento.
+- **Validación:** compartan el enlace del Pull Request con el grupo. Cada integrante puede dejar un comentario con su aporte o una corrección.
 
 Si su grupo ya tiene el repositorio `mi-comunidad`, pueden publicar también una copia en la carpeta `recursos/` y enlazarla desde el README.
 
@@ -133,7 +137,11 @@ Si su grupo ya tiene el repositorio `mi-comunidad`, pueden publicar también una
 # Propuesta: [nombre de la propuesta]
 
 ## Grupo
-Número de grupo y nombres de todos los integrantes, con sus usuarios de GitHub.
+Número y nombre del grupo.
+
+| Integrante | Usuario de GitHub | Rol en el reto |
+| --- | --- | --- |
+|  |  |  |
 
 ## Repositorio analizado
 Nombre, enlace, autoría y licencia.
@@ -170,15 +178,15 @@ Enlaces a los archivos, Issues o páginas consultadas.
 
 ## Qué se evaluará
 
-La propuesta se califica sobre **100 puntos** y la nota es **grupal**: la reciben todas las personas que figuran como integrantes. Los criterios se relacionan con la [rúbrica del proyecto integrador](https://github.com/Universidad-Cenfotec/SINT-741-Curso-Activadores/blob/main/2.%20Documentos/rubrica_proyecto_cenfotec.md), en particular con los criterios de transparencia y documentación, y de experimentación y aprovechamiento de recursos.
+La evaluación es **grupal**: aplica a todas las personas que figuran como integrantes. Los criterios se relacionan con la [rúbrica del proyecto integrador](https://github.com/Universidad-Cenfotec/SINT-741-Curso-Activadores/blob/main/2.%20Documentos/rubrica_proyecto_cenfotec.md), en particular con los criterios de transparencia y documentación, y de experimentación y aprovechamiento de recursos.
 
-| Criterio | Puntos | Insatisfactorio | Aceptable | Satisfactorio |
-| --- | --- | --- | --- | --- |
-| **Comprensión del repositorio** | 15 | Describe el proyecto de forma vaga o copiada. | Explica qué es el proyecto, pero no para quién ni qué problema resuelve. | Explica con sus palabras qué es, para quién está hecho y qué problema resuelve. |
-| **Hallazgos con evidencia** | 25 | Hay afirmaciones sin respaldo o datos inventados. | Algunos hallazgos citan archivos o enlaces. | Cada hallazgo cita la ruta o el enlace, y lo no verificado se indica como tal. |
-| **Calidad de la propuesta** | 25 | La propuesta es genérica o no se relaciona con el repositorio. | La propuesta es pertinente, pero le faltan pasos o una forma de comprobarla. | La propuesta es concreta, realista y verificable, y otra persona podría continuarla. |
-| **Documentación en Markdown** | 20 | El archivo está incompleto o es difícil de leer. | Sigue la plantilla, pero tiene secciones débiles o errores de formato. | Está completo, ordenado y usa bien títulos, tablas y enlaces. |
-| **Uso transparente de la IA** | 10 | No menciona el uso de IA. | Menciona la herramienta, pero no qué aprovechó ni qué corrigió. | Explica qué consultó, qué aprovechó y qué verificó o corrigió. |
-| **Entrega en GitHub** | 5 | No se entregó por GitHub. | Se entregó con errores de ubicación o de nombre, o faltan integrantes en el archivo. | El grupo entregó un único Pull Request, en la carpeta correcta, con el nombre indicado y todos los integrantes identificados. |
+| Criterio | Insatisfactorio | Aceptable | Satisfactorio |
+| --- | --- | --- | --- |
+| **Comprensión del repositorio** | Describe el proyecto de forma vaga o copiada. | Explica qué es el proyecto, pero no para quién ni qué problema resuelve. | Explica con sus palabras qué es, para quién está hecho y qué problema resuelve. |
+| **Hallazgos con evidencia** | Hay afirmaciones sin respaldo o datos inventados. | Algunos hallazgos citan archivos o enlaces. | Cada hallazgo cita la ruta o el enlace, y lo no verificado se indica como tal. |
+| **Calidad de la propuesta** | La propuesta es genérica o no se relaciona con el repositorio. | La propuesta es pertinente, pero le faltan pasos o una forma de comprobarla. | La propuesta es concreta, realista y verificable, y otra persona podría continuarla. |
+| **Documentación en Markdown** | El archivo está incompleto o es difícil de leer. | Sigue la plantilla, pero tiene secciones débiles o errores de formato. | Está completo, ordenado y usa bien títulos, tablas y enlaces. |
+| **Uso transparente de la IA** | No menciona el uso de IA. | Menciona la herramienta, pero no qué aprovechó ni qué corrigió. | Explica qué consultó, qué aprovechó y qué verificó o corrigió. |
+| **Entrega en GitHub** | No se entregó por GitHub. | Se entregó con errores de ubicación o de nombre, o faltan integrantes en el archivo. | El grupo entregó un único Pull Request en `6. Grupos/[su grupo]/reto-05/`, con el nombre indicado y todos los integrantes y roles identificados. |
 
 Esta es una **primera versión**. La retroalimentación que reciban se podrá incorporar en el proyecto `mi-comunidad`.
