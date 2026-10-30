@@ -1,8 +1,7 @@
 # Reto de clase 5 · De exploradores a colaboradores Maker
 
 **Curso Activadores de Comunidades de Práctica · SINT-741**  
-**Fecha** 29 de octubre de 2026  
-**Trabajo en grupo** 45 minutos
+**Trabajo en grupo** 
 
 ## El reto
 
